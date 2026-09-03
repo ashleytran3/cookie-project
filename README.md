@@ -1,6 +1,6 @@
 # CS250-cookie-project
 
-This repository contains code that was developed for a project submitted for C++ Programming 2 (CS250) at Orange Coast College. It was a collaborative effort with Omar Abou-Harb, and Professor Hatice Aydin provided starter code. This project creates an interface that allows users to select different options that return different information about a predetermined list of 12 cookies.
+This repository contains code that was developed for a project submitted for C++ Programming 2 (CS250) at Orange Coast College. It was a collaborative effort with another classmate, and Professor Hatice Aydin provided starter code. This project creates an interface that allows users to select different options that return different information about a predetermined list of 12 cookies.
 
 ### My Contributions:
 - Developed and optimized key functions.
